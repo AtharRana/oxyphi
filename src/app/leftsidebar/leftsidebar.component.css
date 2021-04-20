@@ -1,0 +1,22 @@
+form {
+    padding-left: 55px;
+    padding-right: 55px;
+    margin-top: 60px;
+    margin-bottom: 53px;
+}
+label {
+    font-size: 24px;
+}
+::placeholder {
+    font-size: 22px;
+
+}
+.btn {
+margin-left: 49px;
+margin-bottom: 55px;
+
+}
+img {
+    border-radius: 122px;
+    margin-top: 33px;
+}
